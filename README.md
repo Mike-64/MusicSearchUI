@@ -3,7 +3,7 @@
 A Basic UI page with Filtering options.
 
 ```
-(https://mike-64.github.io/MusicSearchUI/home.html)
+[https://mike-64.github.io/MusicSearchUI/home.html]
 ```
 
 ## External CDN Used
